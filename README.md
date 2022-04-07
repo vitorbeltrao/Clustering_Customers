@@ -1,4 +1,4 @@
-# Clustering_Customers
+# Clustering Customers
 
 ## Table of Contents
 
