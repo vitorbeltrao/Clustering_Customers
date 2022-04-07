@@ -9,13 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-To run this notebook, you must install the [Category Enconders](https://contrib.scikit-learn.org/category_encoders/).
-
-```
-!pip install category_encoders
-```
-
-Taking this, there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
